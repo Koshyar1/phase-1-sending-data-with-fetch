@@ -1,30 +1,620 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "04df",
+      "name": "tawa",
+      "email": "tawa@email.com"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "249c",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "49c1",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "4dd6",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "0a71",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "3b71",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "b642",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "66dd",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "0f87",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "3649",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "2803",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "4f1c",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "972b",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "f37e",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "4f5b",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "52d7",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "94fe",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "cb3b",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "6c72",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "fa16",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "f68d",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "2203",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "7f25",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "a857",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "a7fa",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "2cba",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "e715",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "5a98",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "d818",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "d647",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "45d2",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "b700",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "33e9",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "9b31",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "6eb6",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "52af",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "af86",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "41e0",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "f1e2",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "ad7d",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "5648",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "5e4d",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "8f78",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "b778",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "8a30",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "543c",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "9600",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "6ee2",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "d879",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "bc0c",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "89ea",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "df75",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "43cd",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "96d7",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "d2bb",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "b2dd",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "3a02",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "694b",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "6cdc",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "e203",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "2cc3",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "437b",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "3984",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "94d1",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "65cc",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "8be5",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "dc46",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "2184",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "42e3",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "98f3",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "48c2",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "b018",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "ba44",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "a66d",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "8a52",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "a26d",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "e421",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "e5e5",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "46ab",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "35ef",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "51e0",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "e36d",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "64fc",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "d430",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "5eef",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "9470",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "4726",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "63d4",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "c339",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "b4d8",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "6ced",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "e969",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "ff67",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "93cc",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "2398",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "8e9d",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "63cb",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "ae50",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "815c",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "edd2",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "3cd3",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "2eb9",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "f3fa",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "2982",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "2c56",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "121d",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "5916",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "7815",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "d1ba",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "0cec",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "7bcb",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "e21a",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "5720",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "d32c",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "8ea3",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "ba11",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    },
+    {
+      "id": "b5bc",
+      "name": "tawa",
+      "email": "tawa@email.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
